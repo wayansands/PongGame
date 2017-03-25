@@ -1,0 +1,31 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x412)
+    Vendor:   Intel
+    VRAM:     2103 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\HuntingClub\Games\Pong\UltimatePong_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\HuntingClub\Games\Pong\UltimatePong_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\HuntingClub\Games\Pong\UltimatePong_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\HuntingClub\Games\Pong\UltimatePong_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\HuntingClub\Games\Pong\UltimatePong_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\HuntingClub\Games\Pong\UltimatePong_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\HuntingClub\Games\Pong\UltimatePong_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\HuntingClub\Games\Pong\UltimatePong_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\HuntingClub\Games\Pong\UltimatePong_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\HuntingClub\Games\Pong\UltimatePong_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\HuntingClub\Games\Pong\UltimatePong_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\HuntingClub\Games\Pong\UltimatePong_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.023 seconds
+Platform assembly: C:\HuntingClub\Games\Pong\UltimatePong_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\HuntingClub\Games\Pong\UltimatePong_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1200 59Hz; virtual: 3840x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.020675 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1974 -> priority: 1 
